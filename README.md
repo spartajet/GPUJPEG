@@ -14,7 +14,9 @@ for high-performance image encoding and decoding. The software runs also on
 This documents provides an introduction to the library and how to use it. You
 can also look to [FAQ.md](FAQ.md) for _performance tuning_
 and additional information. To see _latest changes_
-you can display file [NEWS.md](NEWS.md).
+you can display file [NEWS.md](NEWS.md). For a Chinese-language feasibility
+assessment of a Rust reimplementation, see
+[RUST_REWRITE_FEASIBILITY_CN.md](RUST_REWRITE_FEASIBILITY_CN.md).
 
 Table of contents
 -----------------
